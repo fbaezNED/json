@@ -23,8 +23,8 @@
         ],
         "duration": 1290
       },
-      "thumbnail": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg?width=300",
-      "brandedThumbnail": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg?width=300",
+      "thumbnail": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg?height=500",
+      "brandedThumbnail": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg?height=500",
       "shortDescription": "A live description",
       "longDescription": "A longer description of a live stream"
     }
