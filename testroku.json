@@ -10,7 +10,7 @@
         "dateAdded": "2015-11-11T22:21:37+00:00",
         "videos": [
           {
-            "url": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
+            "url": "https://c13-live-1.cdn.nedmedia.io/index.m3u8",
             "quality": "UHD",
             "videoType": "HLS"
           }
@@ -23,8 +23,8 @@
         ],
         "duration": 1290
       },
-      "thumbnail": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg",
-      "brandedThumbnail": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg",
+      "thumbnail": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg?width=300",
+      "brandedThumbnail": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg?width=300",
       "shortDescription": "A live description",
       "longDescription": "A longer description of a live stream"
     }
