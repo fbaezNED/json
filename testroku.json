@@ -303,7 +303,7 @@
         ],
         "videos": [
           {
-            "url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/a4d29aebf55e499c968ce02469859637/1436ec35d7984170b428141579add3c2/roku_ep_113_segment_3_college_insiders_042415.mp4",
+            "url": "https://sample-videos.com/video123/mp4/360/big_buck_bunny_360p_1mb.mp4",
             "quality": "HD",
             "videoType": "MP4"
           }
@@ -337,7 +337,7 @@
         ],
         "videos": [
           {
-            "url": "http://roku.cpl.delvenetworks.com/media/59021fabe3b645968e382ac726cd6c7b/69ce40b268fa4766aa1612131aa74898/f9402439b3bb46028bcb3421821cadbf/roku-recommends_new.mp4",
+            "url": "https://sample-videos.com/video123/mp4/360/big_buck_bunny_360p_1mb.mp4",
             "quality": "HD",
             "videoType": "MP4"
           }
@@ -372,7 +372,7 @@
       "longDescription": "A longer description of a live stream",
       "tags":[
 "linear",
-"news",
+"vivo",
 "celebrity"
 ]
     }
