@@ -10,21 +10,21 @@
         "dateAdded": "2015-11-11T22:21:37+00:00",
         "videos": [
           {
-            "url": "https://example.org/cdn/videos/1509428502952",
+            "url": "http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8",
             "quality": "UHD",
             "videoType": "HLS"
           }
         ],
         "trickPlayFiles": [
           {
-            "url": "https://example.org/cdn/trickplayFiles/1509428502952/1",
+            "url": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg",
             "quality": "FHD"
           }
         ],
         "duration": 1290
       },
-      "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
-      "brandedThumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+      "thumbnail": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg",
+      "brandedThumbnail": "https://images.firesport.io/firesport/videos/images/5cdc0560797442fab93e65f1/1.jpg",
       "shortDescription": "A live description",
       "longDescription": "A longer description of a live stream",
       "tags": [
