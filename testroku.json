@@ -1,0 +1,37 @@
+{
+  "providerName": "Acme Productions",
+  "lastUpdated": "2015-11-11T22:21:37+00:00",
+  "language": "en",
+  "liveFeeds": [
+    {
+      "id": "1509428502953",
+      "title": "Sample Stream",
+      "content": {
+        "dateAdded": "2015-11-11T22:21:37+00:00",
+        "videos": [
+          {
+            "url": "https://example.org/cdn/videos/1509428502952",
+            "quality": "UHD",
+            "videoType": "HLS"
+          }
+        ],
+        "trickPlayFiles": [
+          {
+            "url": "https://example.org/cdn/trickplayFiles/1509428502952/1",
+            "quality": "FHD"
+          }
+        ],
+        "duration": 1290
+      },
+      "thumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+      "brandedThumbnail": "https://example.org/cdn/thumbnails/1509428502952/1",
+      "shortDescription": "A live description",
+      "longDescription": "A longer description of a live stream",
+      "tags": [
+        "linear",
+        "news",
+        "celebrity"
+      ]
+    }
+  ]
+}
